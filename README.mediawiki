@@ -1,2 +1,2 @@
 == Red Owl Analytics Recruiting Exam ==
-Please visit the [https://github.com/JLospinoso/Redowl-Recruiting-Exam/wiki wiki] for instructions.
+Please visit the [https://github.com/redowl/Redowl-Recruiting-Exam/wiki wiki] for instructions.
